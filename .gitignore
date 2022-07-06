@@ -12,8 +12,8 @@ __pycache__/
 *.so
 
 # local files
-*.csv
-*.pptx
+#*.csv
+#*.pptx
 *.pyc
 
 # Distribution / packaging
